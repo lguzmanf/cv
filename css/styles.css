@@ -1,0 +1,175 @@
+/**************************body**********************/
+/*****TAG SELECTORS*****/
+body {
+  background-color: #EADEDE;
+  color: #000000;
+  margin: 0;
+  text-align: center;
+}
+
+.limit {
+  border: none;
+  border-bottom-style: double;
+  border-color: #630000;
+  border-width: 10px;
+  width: 90%;
+}
+
+.head-conteiner {
+  /*background-color: green;*/
+  position: relative;
+  height: 300px;
+}
+
+.ProfilePicture {
+  position: absolute;
+  left: 200px;
+  top: 50px;
+  width: 10%;
+  filter: grayscale(30%);
+}
+
+.name {
+  color: #630000;
+  padding-top: 50px;
+}
+
+.profesion {
+  color: #630000;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+}
+
+.contactme-table {
+  position: absolute;
+  top: 180px;
+  right: 90px;
+}
+
+.profile-conteiner {
+  /*background-color: gray;*/
+  position: relative;
+  height: 150px;
+}
+
+.profile {
+  color: #630000;
+}
+
+.resume {
+  width: 90%;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.education-container {
+/*  background-color: green;*/
+  position: relative;
+  height: 650px;
+}
+
+.courses {
+  position: absolute;
+  /*background-color: red;*/
+  top: 30px;
+  height: 600px;
+  width: 800px;
+  left: 90px;
+  text-align: justify;
+}
+
+.habilities {
+  position: absolute;
+  /*background-color: yellow;*/
+  height: 600px;
+  left: 890px;
+}
+
+.competencies {
+  /*background-color: blue;*/
+  position: absolute;
+  height: 200px;
+  width: 300px;
+  top: 20px;
+  left: 20px;
+}
+
+.knowledge {
+  /*background-color: yellow;*/
+  position: absolute;
+  top: 250px;
+  width: 300px;
+  left: 20px;
+}
+
+.computing {
+  /*background-color: red;*/
+  position: absolute;
+  left: 350px;
+  width: 200px;
+  top: 20px;
+}
+
+.idiom {
+  /*background-color: magenta;*/
+  position: absolute;
+  top: 450px;
+  width: 300px;
+  left: 200px;
+}
+
+.Programming {
+  /*background-color: gray;*/
+  position: absolute;
+  left: 350px;
+  width: 200px;
+  top: 250px;
+}
+
+h5 {
+  text-decoration: underline;
+}
+
+li {
+  text-align: left;
+}
+
+.experience-container {
+/*  background: blue;*/
+  position: relative;
+  height: 900px;
+  margin: 80px;
+  top: -40px;
+}
+
+h4 {
+  color: #362222;
+  text-align: left;
+}
+
+.projects-container {
+  /*background: green;*/
+  position: relative;
+  height: 1100px;
+  top: 50px;
+}
+
+h1 {
+  color: #362222;
+  text-align: center;
+}
+
+h2 {
+  color: #362222;
+  text-align: center;
+}
+
+h3 {
+  color: #362222;
+  text-align: center;
+}
+
+table{
+  text-align: left;
+}
